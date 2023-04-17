@@ -1,6 +1,6 @@
-### Hi there 👋, I'm Osain
-#### Cloud Engineer
 ![Cloud Engineer](https://pbs.twimg.com/profile_banners/965952421284466688/1528653591/1500x500)
+
+# Hi there 👋, I'm Osain
 
 Without a doubt, the development of Software, innovation, and entrepreneurship is something that fascinates me.
 
@@ -8,10 +8,21 @@ I'm currently working as a Cloud Engineer, certified in AWS as Cloud Practitione
  
 I'm someone who loves to improve every day, share my knowledge with others, and always keep learning. 🌱
 
-Skills: AWS / Terraform / Python / JS
+## Experience
++ **Apli Jobs, AWS Cloud Engineer** Jan 2022 - Present Day: Cloud Architect with AWS services, focusing on the design and creation of infrastructure with IaC tools such as Terraform. Enhancing and creating CICD pipelines with the help of GitHub actions/AWS native tools. [Certified as AWS Solutions Architect Associate](https://www.credly.com/badges/dbb4510d-c80e-4bdf-bf9b-52e370013a9a)
++ **G-Tech, AWS Cloud Developer** Jan 2021 - Dec 2021: Backend developer, usage of Node.js, Express, Sequelize, and AWS services and training for AWS Cloud certifications. [Certified as AWS Cloud Practitioner](https://www.credly.com/badges/4f129c39-edb2-410c-91aa-d8bf8617706f)
++ **Cubo Rojo, React Native developer** May 2020 - Dec 2020: Full-stack developer for a [React Native app](https://play.google.com/store/apps/details?id=com.devarkcode.cuborojocomunicacion).
 
-- 🔭 I’m currently working on Apli Jobs  
-- 🌱 I’m currently learning AWS Solutions Architect Professional + GCP Cloud Engineer 
+### Carrier Path
++ 🌱 I’m currently learning AWS Solutions Architect Professional + GCP Cloud Engineer
++ 📖 I'm currently focusing on grow as a individual contributor, the next step in my career is to become a Platform Engineer and increase my seniority level
+
+## Skills
++ ☁️ AWS
++ 🏗️ Terraform
++ 🐍 Python
++ ⚛️React Native
++ 💻 HTML, CSS, JS
 
 ----
 
