@@ -15,7 +15,7 @@ I'm someone who loves to improve every day, share my knowledge with others, and 
 
 ### Carrier Path
 + 🌱 I’m currently learning AWS Solutions Architect Professional + GCP Cloud Engineer
-+ 📖 I'm currently focusing on grow as a individual contributor, the next step in my career is to become a Platform Engineer and increase my seniority level
++ 📖 I'm currently focusing on growing as a individual contributor, the next step in my career is to become a Software Architect Engineer and increase my seniority level
 
 ## Skills
 + ☁️ AWS
