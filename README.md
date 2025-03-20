@@ -1,37 +1,102 @@
-![Cloud Engineer](https://pbs.twimg.com/profile_banners/965952421284466688/1528653591/1500x500)
+<!-- Banner -->
+<img src="https://pbs.twimg.com/profile_banners/965952421284466688/1528653591/1500x500" alt="Cloud Engineer Banner" width="100%">
 
-# Hi there 👋, I'm Osain
+<!-- Title -->
+<h1>Hi there 👋</h1>
 
-Without a doubt, the development of Software, innovation, and entrepreneurship is something that fascinates me.
+<!-- Introduction -->
+<p align="justify">
+  My name is <strong>Osain</strong>. I am a <strong>certified AWS Solutions Architect and Software Engineer</strong> passionate about leading teams and building impactful products that address real-world needs. 
+  With extensive experience in cloud technologies and software development, I specialize in designing and deploying secure, reliable, and scalable cloud-based systems.
+</p>
 
-I'm currently working as a Cloud Engineer, certified in AWS as a Cloud Practitioner and as a Solutions Architect Associate. My daily tasks focus on designing and creating infrastructure within the AWS cloud with infrastructure as code with Terraform and implementing/enhancing CICD pipelines.
+<!-- Experience -->
+<h2 align="justify">Experience</h2>
+
+<div align="justify">
+
+ <h3>🏗️ Senior Software Engineer 2 - Platform Team</h3>
+ <p><strong>Apli Jobs</strong> | <em>March 2024 - Present</em></p>
+ <ul>
+   <li><strong>Infrastructure Standardization:</strong> Implemented Terraform modules, reducing development cycles by <strong>80%</strong>.</li>
+   <li><strong>Cloud Deployment:</strong> Dockerized services and optimized ECS deployment workflows.</li>
+   <li><strong>API Development:</strong> Designed and exposed REST APIs via <strong>API Gateway</strong> for seamless integrations.</li>
+   <li><strong>Performance Optimization:</strong> Introduced <strong>Artillery stress testing</strong>, improving release times.</li>
+ </ul>
  
-I love to improve every day, share my knowledge with others, and always keep learning. 🌱
+ <h3>☁️ Software Engineer - Cloud Team</h3>
+ <p><strong>Apli Jobs</strong> | <em>January 2022 - March 2024</em></p>
+ <ul>
+   <li><strong>Cloud Architecture:</strong> Designed and deployed cloud-based solutions for cross-team projects.</li>
+   <li><strong>Cost Optimization:</strong> Reduced AWS cloud expenses by <strong>10%</strong> in the first year.</li>
+   <li><strong>Security & Compliance:</strong> Led the <strong>ISO 27001 certification</strong> for cloud infrastructure.</li>
+   <li><strong>Incident Management:</strong> Co-founded the on-call program, improving response times to <strong>under 4 hours</strong>.</li>
+   <li><strong>Mentorship:</strong> Documented security automation & improved knowledge-sharing.</li>
+ </ul>
+ 
+ <h3>🔧 Backend Developer + AWS Cloud Engineer</h3>
+ <p><strong>Galaxy Technology</strong> | <em>February 2021 - January 2022</em></p>
+ <ul>
+   <li><strong>Backend API Development:</strong> Built and managed REST APIs using <strong>Express & Sequelize</strong>.</li>
+   <li><strong>AWS Services:</strong> Designed and maintained serverless applications with <strong>Lambda, API Gateway, AppSync, DynamoDB, SNS, and SQS</strong>.</li>
+   <li><strong>Client Collaboration:</strong> Worked closely with customers to develop new features and optimize services.</li>
+ </ul>
+ 
+ <h3>📱 React Native Developer</h3>
+ <p><strong>Cubo Rojo</strong> | <em>May 2020 - December 2020</em></p>
+ <ul>
+   <li><strong>Full-Stack Development:</strong> Contributed to a mobile app using <strong>React Native</strong>.</li>
+   <li><strong>Live Project:</strong> Published app on <a href="https://play.google.com/store/apps/details?id=com.devarkcode.cuborojocomunicacion">Google Play Store</a>.</li>
+ </ul>
 
-## Experience
-+ **Apli Jobs, AWS Cloud Engineer** Jan 2022 - Present Day: Cloud Architect with AWS services, focusing on designing and creating infrastructure with IaC tools such as Terraform. Enhancing and creating CICD pipelines with the help of GitHub actions/AWS native tools. [Certified as AWS Solutions Architect Associate](https://www.credly.com/badges/dbb4510d-c80e-4bdf-bf9b-52e370013a9a)
-+ **G-Tech, AWS Cloud Developer** Jan 2021 - Dec 2021: Backend developer, usage of Node.js, Express, Sequelize, and AWS services and training for AWS Cloud certifications. [Certified as AWS Cloud Practitioner](https://www.credly.com/badges/4f129c39-edb2-410c-91aa-d8bf8617706f)
-+ **Cubo Rojo, React Native developer** May 2020 - Dec 2020: Full-stack developer for a [React Native app](https://play.google.com/store/apps/details?id=com.devarkcode.cuborojocomunicacion).
-
-### Carrier Path
-+ 🌱 I’m currently learning AWS Solutions Architect Professional + GCP Cloud Engineer
-+ 📖 I'm currently focusing on growing as an individual contributor, the next step in my career is to become a Software Architect Engineer and increase my seniority level
-
-## Skills
-+ ☁️ AWS
-+ 🏗️ Terraform
-+ 🐍 Python
-+ ⚛️React Native
-+ 💻 HTML, CSS, JS
-
-----
-### Certificates
-
-<img src="https://github.com/OsainAbitia/OsainAbitia/blob/master/images/AWS-SAA.png" width="150" /> <img src="https://github.com/OsainAbitia/OsainAbitia/blob/master/images/AWS-CE.png" width="150" /> <img src="https://github.com/OsainAbitia/OsainAbitia/blob/master/images/AWS-Business.png" width="150" /> <img src="https://github.com/OsainAbitia/OsainAbitia/blob/master/images/AWS-Technical.png" width="150" />
+</div>
 
 
-----
+<!-- Career Path -->
+<h2>Career Path</h2>
+<ul align="justify">
+  <li>🌱 Currently pursuing the <strong>AWS Solutions Architect Professional</strong> certification while refining my expertise in Python development.</li>
+  <li>📖 My next career goal is to transition into a <strong>Software Architect Engineer</strong> role, further enhancing my technical leadership and system design capabilities.</li>
+</ul>
 
-### Let's keep in touch!
+<!-- Skills -->
+<h2>Skills</h2>
+<p align="justify">
+  ☁️ Cloud Architecture (AWS) • 🏗️ Infrastructure as Code (Terraform) • 🐍 Backend Development (Python) • ⚛️ Mobile Development (React Native) • 💻 Web Technologies (HTML, CSS, JavaScript)
+</p>
 
-[<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg' alt='github' height='40'>](https://github.com/OsainAbitia)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/osain-abitia)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/osainabitia)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg' alt='twitter' height='40'>](https://twitter.com/OsainAbitia)  [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/18032295/osain)  
+<!-- Certifications -->
+<h2>Certifications</h2>
+<p align="center">
+  <img src="https://github.com/OsainAbitia/OsainAbitia/blob/master/images/AWS-SAA.png" width="150">
+  &nbsp;&nbsp;
+  <img src="https://github.com/OsainAbitia/OsainAbitia/blob/master/images/AWS-CE.png" width="150">
+  &nbsp;&nbsp;
+  <img src="https://github.com/OsainAbitia/OsainAbitia/blob/master/images/AWS-Business.png" width="150">
+  &nbsp;&nbsp;
+  <img src="https://github.com/OsainAbitia/OsainAbitia/blob/master/images/AWS-Technical.png" width="150">
+</p>
+
+<!-- Contact -->
+<h2>Let's Connect!</h2>
+<p align="center">
+  <a href="https://github.com/OsainAbitia">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/osain-abitia">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/osainabitia">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://twitter.com/OsainAbitia">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="40">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/18032295/osain">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="Stack Overflow" height="40">
+  </a>
+</p>
